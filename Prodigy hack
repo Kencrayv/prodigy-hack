@@ -1,0 +1,2 @@
+javascript:window.PIXI.game.prodigy.player.backpack.data.follow.push({N: 1, ID: Put ID number of buddy});
+for the IDs, go to http://cdn.prodigygame.com/game/data/production/274/data.json
